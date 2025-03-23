@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pizza",
+    "category": "Fast Food",
+    "price": 12.99,
+    "image": "Pizza.jpeg"
+  },
+  {
+    "name": "Sushi",
+    "category": "Japanese",
+    "price": 18.99,
+    "image": "Sushi.jpeg"
+  },
+  {
+    "name": "Burger",
+    "category": "Fast Food",
+    "price": 9.99,
+    "image": "Burger.webp"
+  },
+  {
+    "name": "Pasta",
+    "category": "Italian",
+    "price": 14.99,
+    "image": "Pasta.webp"
+  },
+  {
+    "name": "Tacos",
+    "category": "Mexican",
+    "price": 10.99,
+    "image": "Tacos.jpeg"
+  },
+  {
+    "name": "Momo",
+    "category": "Nepalese",
+    "price": 7.99,
+    "image": "Momos.jpeg"
+  }
+]
